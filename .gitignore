@@ -1,0 +1,4 @@
+__pycache__/
+.headers_auth.json
+.venv/
+History
